@@ -6,4 +6,5 @@ A clean flutter BLoC architecture implementation showcasing how to use it with u
 
 https://cleancodestack.com/flutter-bloc-input-validations/
 
+![Alt Text](https://cleancodestack.com/wp-content/uploads/2025/02/bloc_validations_flutter.gif)
 
